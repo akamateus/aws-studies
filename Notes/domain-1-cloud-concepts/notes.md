@@ -138,3 +138,38 @@ The shift to cloud computing has revolutionized the way software is deployed, ma
 In navigating the impacts of software licensing in the cloud, organizations must carefully evaluate their specific needs, choose appropriate licensing models, and implement robust management practices. Balancing cost-effectiveness with compliance and flexibility is key to maximizing the benefits of cloud-based software solutions.
 
 ---
+
+# 📺 AWS Benefits of Automation
+
+## IaC - Infrastructure as a code
+
+## Benefits of Automation
+
+1. Efficiency
+2. Security
+3. Auditability
+4. Elasticity
+5. Portability
+6. Recoverability
+
+---
+
+# 📺 AWS Managed Services
+
+## Amazon Relational database Service (RDS)
+
+Is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Choose from seven popular engines — Amazon Aurora with MySQL compatibility, Amazon Aurora with PostgreSQL compatibility, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server — and deploy on-premises with Amazon RDS on AWS Outposts.
+
+---
+
+# 📺 AWS CCP Exam Experience and AWS Cloud Adoption Framework (CAF)
+
+In my recent experience with the AWS Certified Cloud Practitioner (CCP) exam, I encountered a question related to the AWS Cloud Adoption Framework (CAF). Keep in mind that your exam may have a different set of questions. However, it's important to note that the CAF is one of the new areas highlighted in the updated version of the CCP exam (CLF-C02).
+
+AWS CAF groups its capabilities in six perspectives: Business, People, Governance, Platform, Security, and Operation.
+
+To ensure you're well-prepared, it's highly recommended to familiarize yourself with the AWS Cloud Adoption Framework. You can access it [here](https://aws.amazon.com/cloud-adoption-framework/).
+
+As a minimum step, I suggest skimming through the eBook version of the CAF, which can be found [here](https://d1.awsstatic.com/whitepapers/aws-caf-ebook.pdf).
+
+---
