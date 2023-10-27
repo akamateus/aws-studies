@@ -26,7 +26,7 @@
 
 - Service and Communications Protection or Zone Security which may require a customer to route or zone data within specific security environments.
 
-![example](../Docs/shared-responsability.jpg)
+![example](./Docs/shared-responsibility.jpg)
 
 ## Check Shared Responsibility Model [here](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
