@@ -29,3 +29,21 @@
 _Check Shared Responsibility Model_ [here](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 ---
+
+# 📺 Locating AWS Compliance Information
+
+AWS customers are responsible for maintaining adequate governance over their entire IT control environment, regardless of how or where IT is deployed. Leading practices include:
+
+- Understanding the required compliance objectives and requirements (from relevant sources)
+
+- Establishing a control environment that meets those objectives and requirements
+
+- Understanding the validation required based on the organization’s risk tolerance
+
+- Verifying the operating effectiveness of their control environment
+
+**Deployment in the AWS Cloud gives enterprises different options to apply various types of controls and various verification methods.**
+
+_Risk and compliance_ [here](https://docs.aws.amazon.com/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance-program.html/)
+
+---
