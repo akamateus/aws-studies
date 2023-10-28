@@ -57,3 +57,63 @@ _Security Pillar - AWS Well-Architected Framework_ [here](https://docs.aws.amazo
 ---
 
 # 📺 AWS Use Rooter
+
+- Enable Multi-factor authentication or MFA
+
+- IAM SOO users
+
+## do not use root for day-to-day operations:
+
+- need the scope of privileges the root user provides
+
+---
+
+# 📺 Multi-factor Authentication (MFA)
+
+## We need to provide multiple authentication in order to provide more safety. This third part can be your phone, your email, finger print etc.
+
+## in AWS we have:
+
+1. Virtual MFA devices: A software app that runs on a phone or other device and emulates a physical device.
+
+2. U2F security key: A device that you plug into a USB port on your computer.
+
+3. Hardware MFA device: A hardware device that generates a six digit numeric code based upon a time-synchronized one-time pass.
+
+_Enabling MFA devices for users in AWS_ [here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable.html)
+
+---
+
+# 📺 AWS Identity and Access Management (AIM)
+
+## AIM provides the authentication and Authorization control
+
+## AIM is a global service
+
+you dont need to setup for each region
+
+_Temporary security credentials in IAM_ [here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)
+
+---
+
+# 📺 AWS Market place
+
+https://aws.amazon.com/marketplace
+
+Check the products [here](https://aws.amazon.com/marketplace)
+
+---
+
+# 📺 AWS Trusted Advisor
+
+Is the tool AWS provide for management console:
+
+1. Cost Optimization: ways to reduce wastes cloud costs
+
+2. Performance: Ways to improve application responsiveness
+
+3. Security: ways to keep your workload more secure
+
+4. Fault Tolerance: Ways to improve your application uptime
+
+5. Service Limits: Avoid hitting service quota limits
