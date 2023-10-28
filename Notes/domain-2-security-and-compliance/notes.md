@@ -44,6 +44,16 @@ AWS customers are responsible for maintaining adequate governance over their ent
 
 **Deployment in the AWS Cloud gives enterprises different options to apply various types of controls and various verification methods.**
 
-_Risk and compliance_ [here](https://docs.aws.amazon.com/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance-program.html/)
+_Risk and compliance_ [here](https://docs.aws.amazon.com/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance-program.html)
 
 ---
+
+# 📺 Encryption Options on AWS
+
+- Encryption at REST, in transit, in motion
+
+_Security Pillar - AWS Well-Architected Framework_ [here](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
+
+---
+
+# 📺 AWS Use Rooter
